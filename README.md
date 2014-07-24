@@ -18,10 +18,11 @@ A few money rules
 
 A few ground rules
 ----------------
-* This isn't _just_ about moving coins around. You also need to develop a site people care about: You need an editorial POV, a publishing strategy, + plans for people actually finding out about your stuff.
+* This isn't _just_ about moving coins around. You also need to develop a site people care about: You need an editorial POV, an audience, a publishing strategy, + plans for people actually finding out about your stuff.
 * Your group will need to decide on an editorial direction, how to staff it, and how to achieve profitability.
-* You need to give a *TWO MINUTE PITCH* at the end of the session. That pitch should include:
+* You need to give a _TWO MINUTE PITCH_ at the end of the session. That pitch should include:
   * What the idea is
+  * Who is it *for*
   * What's your staffing look like
   * How you allocated your budget
   * How you're making money
@@ -64,4 +65,4 @@ An important staffing note for nerds.
 
 One final thing to remember
 ---------------------------
-* Your costs reflect where you are in the process. Maybe you don't need bulletproof servers while you're in the early stage of building. Maybe your front-end dev needs grow as the site does? Maybe you don't need a ball pit... at all? 
+* Your costs reflect where you are in the process. Maybe you don't need bulletproof servers while you're in the early stage of building. Maybe your front-end dev needs grow as the site does? Maybe you don't need a ball pit... at all?
