@@ -49,7 +49,7 @@ Hey: This is a room full of really smart people, and I bet you all have better i
     * [Heroku Calculator](https://www.heroku.com/pricing)
 
 * Content
-  * Going to go freelance? Reputable rates are (broadly) $250-500 a piece.
+  * Going to go freelance? Reputable rates are (broadly) $250-500 per piece.
   * Obviously, there are plenty of places on the internet that pay less.
   * Less can mean free: but have a strategy for how that keeps up (and gets started to begin with).
 
@@ -61,3 +61,7 @@ An important staffing note for nerds.
 --------------------------
 * DON'T FORGET SUPPORT STAFF: Who cuts your checks, balances your books, answers the phones? Probably not you or the folks doing the reporting.
 * If you're going to make money from selling ads or putting on events or some other way, there's probably staff involved in that too.
+
+One final thing to remember
+---------------------------
+* Your costs reflect where you are in the process. Maybe you don't need bulletproof servers while you're in the early stage of building. Maybe your front-end dev needs grow as the site does? Maybe you don't need a ball pit... at all? 
