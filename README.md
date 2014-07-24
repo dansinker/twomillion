@@ -1,4 +1,4 @@
-Two million dollars and one hour: Can you design a new news org that doesn’t shit the bed?
+Two million dollars and one hour: notes to help you not shit the bed.
 ==========
 
 Starting a news site is a balancing act: How can you achieve maximum editorial quality, awesome design, and kick-ass frontend apps (and the backend to support them), while having an infrastructure that doesn't go down, happy employees, an office space, and--eventually--achieve profitability?
@@ -16,7 +16,7 @@ A few money rules
 
 A few ground rules
 ----------------
-* This isn't _just_ about moving coins around. You also need to develop a site people care about: You need an editorial POV, a publishing strategy, + distro plans.
+* This isn't _just_ about moving coins around. You also need to develop a site people care about: You need an editorial POV, a publishing strategy, + plans for people actually finding out about your stuff.
 * Your group will need to decide on an editorial direction, how to staff it, and how to achieve profitability.
 * You need to give a *TWO MINUTE PITCH* at the end of the session. That pitch should include:
   * What the idea is
