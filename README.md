@@ -37,7 +37,8 @@ Hey: This is a room full of really smart people, and I bet you all have better i
 * Rent
   * Manhattan rent is around $65/square foot.
   * Portland, Oregon? $25/square foot.
-  * Going virtual instead? Slack is $5 per head per month
+    * Average guides say assume 100-150 sq ft per employee.
+  * Going virtual instead? Slack is $7 per head per month
 
 * Servers (A lot of this pricing depends on what you're doing, obviously.)
   * A content-heavy site, without a lot of computing bells and whistles, served smartly, runs around $100/month per million visitors.
