@@ -45,9 +45,14 @@ Hey: This is a room full of really smart people, and I bet you all have better i
 
 * Servers (A lot of this pricing depends on what you're doing, obviously.)
   * A content-heavy site, without a lot of computing bells and whistles, served smartly, runs around $100/month per million visitors.
-  * If you're running EC2 instances or Heroku Dynos--which you'll want to if you're doing any real computing (running news apps, building a custom backend or dynamic frontend, etc)--your pricing will be quite a bit different. Feels like a balllllpark is $500-$1500 a month, for mid-weight stuff, but you should probably do some calculations:
-    * [Amazon AWS Calculator](http://calculator.s3.amazonaws.com/index.html)
-    * [Heroku Calculator](https://www.heroku.com/pricing)
+  * If you're running EC2 instances, Rackspace Cloud services, or Heroku Dynos--which you'll want to if you're doing any real computing (running news apps, building a custom backend or dynamic frontend, etc)--your pricing will be quite a bit different.
+    * Very lightweight (running a single app for an interactive or two that's well cached, for instance): $100/month
+    * Midlevel EC2 (running apps with heavier compute needs): $500/month
+    * Highlevel EC2 (running basically everything off a cloud stack): $1000-$2000/month
+    * You milage could vary wildly. There are calculators:
+      * [Amazon AWS Calculator](http://calculator.s3.amazonaws.com/index.html)
+      * [Racespace Cloud Calculator](http://www.rackspace.com/calculator/)
+      * [Heroku Calculator](https://www.heroku.com/pricing)
 
 * Content
   * Going to go freelance? Reputable rates are (broadly) $250-500 per piece.
