@@ -1,6 +1,8 @@
 Two million dollars and one hour: notes to help you not shit the bed.
 ==========
 
+[Notes to accompany my SRCCON session.](http://schedule.srccon.org/#_session-7)
+
 Starting a news site is a balancing act: How can you achieve maximum editorial quality, awesome design, and kick-ass frontend apps (and the backend to support them), while having an infrastructure that doesn't go down, happy employees, an office space, and--eventually--achieve profitability?
 
 *Spoiler alert*: We're totally not going to solve that in an hour.
