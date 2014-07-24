@@ -41,7 +41,7 @@ Hey: This is a room full of really smart people, and I bet you all have better i
 
 * Servers (A lot of this pricing depends on what you're doing, obviously.)
   * A content-heavy site, without a lot of computing bells and whistles, served smartly, runs around $100/month per million visitors.
-  * If you're running EC2 instances or Heroku Dynos--which you'll want to if you're doing any real computing (running news apps, building a custom backend or dynamic frontend, etc)--your pricing will be quite a bit different. Feels like a balllllpark is $500-$1500 a month, for relatively lightweight stuff, but you should probably do some calculations:
+  * If you're running EC2 instances or Heroku Dynos--which you'll want to if you're doing any real computing (running news apps, building a custom backend or dynamic frontend, etc)--your pricing will be quite a bit different. Feels like a balllllpark is $500-$1500 a month, for mid-weight stuff, but you should probably do some calculations:
     * [Amazon AWS Calculator](http://calculator.s3.amazonaws.com/index.html)
     * [Heroku Calculator](https://www.heroku.com/pricing)
 
@@ -54,4 +54,4 @@ Hey: This is a room full of really smart people, and I bet you all have better i
 An important staffing note for nerds.
 --------------------------
 * DON'T FORGET SUPPORT STAFF: Who cuts your checks, balances your books, answers the phones? Probably not you or the folks doing the reporting.
-* If you're going to make money from selling ads or putting on events or some other way, there's probably staff involved in that too. 
+* If you're going to make money from selling ads or putting on events or some other way, there's probably staff involved in that too.
