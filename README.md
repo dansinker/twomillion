@@ -53,6 +53,9 @@ Hey: This is a room full of really smart people, and I bet you all have better i
   * Obviously, there are plenty of places on the internet that pay less.
   * Less can mean free: but have a strategy for how that keeps up (and gets started to begin with).
 
+* Ping-pong tables, Ball Pits and Nerf Guns
+  * Ima let you price this kinda thing out on your own. But remember they will require square footage.
+
 
 An important staffing note for nerds.
 --------------------------
